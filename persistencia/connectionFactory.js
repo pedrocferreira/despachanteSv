@@ -4,7 +4,7 @@ function createDBConnection() {
     return mysql.createConnection({
         host: 'mysql942.umbler.com',
         user: 'pedroocferreira',
-        password: '9cce22f2',
+        password: '',
         database: 'scaj'
     });
     
